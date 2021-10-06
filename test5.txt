@@ -3,4 +3,9 @@ THis is text file 5
 
 this is the change done so that I can change the repo
 
+<<<<<<< HEAD
 this is the second change
+=======
+
+a new change
+>>>>>>> b04b14a07fccfa1389ccec33b83434dbce8c861d
